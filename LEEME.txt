@@ -1,0 +1,15 @@
+THE LEGION — sitio de historia del grupo
+
+PARA PROBAR:
+1. Descarga y extrae el archivo ZIP.
+2. Abre index.html con doble clic.
+3. Prueba los enlaces del menú y revisa la página bajando por las secciones.
+4. El archivo simbolo-the-legion.png es el emblema que enviaste.
+
+ARCHIVOS:
+- index.html: textos y estructura.
+- styles.css: diseño visual adaptable a móvil y PC.
+- script.js: menú móvil.
+- simbolo-the-legion.png: símbolo de The Legion.
+
+Puedes editar los nombres y los textos en index.html con el Bloc de notas o un editor de código.
